@@ -87,8 +87,8 @@ MIT License
 
 ## 👤 개발자
 
-- **이름**: jaeuk
-- **이메일**: qufskswodnr@gmail.com
+- **이름**: Dugyeon
+- **이메일**: dugyeon@gmail.com
 
 ## 📌 버전 정보
 
